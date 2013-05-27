@@ -34,6 +34,6 @@ Arquiteto de Sistemas, Evangelista PHP, Pai, Marido, levantador de copo profissi
 
 Um poderoso framework MVC para javascript mantido por uma empresinha aí ( Google ) que utiliza da forma correta os conceitos de HTML/HTML5 e manipulação de DOM.
 
-### ECMACScript 5.1
+### ECMAScript 5.1
 
 É só a base do Javascript, com alguns recursos bem interessantes e graças às pressões de mercado presente nos browsers mais modernos.
