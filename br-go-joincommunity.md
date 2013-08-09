@@ -42,9 +42,9 @@ plateia.$find().success(function() {
 ## Palestrante
 
 > Klederson Bueno
----
+
 > klederson@klederson.com
----
+
 > Rio Branco/AC <-> Goiania/GO
 
 ## Empresa
