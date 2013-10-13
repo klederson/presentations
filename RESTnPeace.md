@@ -5,10 +5,10 @@ PHP, REST, MVC, Orientação a Objetos, Arquitetura, Padrões, PHPBurn
 REST'n Peace - Como não enlouquecer na criação de sua API REST
 
 # Resumo
-Nesta palestra vamos abortar como construir do zero uma API RESTful de forma simples e tranquila utilizando PHPBurn.
+Nesta palestra vamos abordar como construir do zero uma API RESTful de forma simples e tranquila utilizando PHPBurn.
 
 # Descrição
-O PHPBurn nasceu da necessidade de um framework rápido e de baixa curva de aprendizado mas com todos os poderes de um grande framework. Destaca-se por ter um ORM extremamente forte, bem estruturado e leve bem como pelo fato de ser extremamente flexível proporcionando ao desenvolvedor o prazer de forcar-se em resolver o negócio e não recriar a roda.
+O PHPBurn nasceu da necessidade de um framework rápido e de baixa curva de aprendizado mas com todos os poderes de um grande framework. Destaca-se por ter um ORM extremamente forte, bem estruturado e leve bem como pelo fato de ser extremamente flexível proporcionando ao desenvolvedor o prazer de forcar-se em resolver o negócio e não reinventar a roda.
 
 Isso dito fica cada dia mais clara a necessidade de uma exposição e integração dos nossos sistemas com outros e para isso uma excelente escolha é partir para aplicações REST e expor nossas funcionalidades através de APIs sobre HTTP.
 
