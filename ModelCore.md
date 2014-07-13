@@ -45,7 +45,7 @@ plateia.$find().success(function() {
 
 > klederson@klederson.com
 
-> Rio Branco/AC <-> Goiania/GO
+> Rio Branco/AC <-> São Paulo/SP
 
 ## Empresa
 
