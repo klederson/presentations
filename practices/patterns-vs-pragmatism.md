@@ -31,7 +31,6 @@ iFind Platform ( http://ifind.io )
 ## Minicurrículo
 Arquiteto de Sistemas, Evangelista PHP, Pai, Marido, levantador de copo profissional.
 
-* CTO at Spryker
 * Ex Global CTO Clickbus/Rocket Internet
 * Ernst & Young / Axia Value Chain
 * Ci&T / Accenture / Inter.net
