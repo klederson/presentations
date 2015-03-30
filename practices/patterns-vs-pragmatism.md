@@ -8,9 +8,11 @@ Pragmatismo vs Padrões - Um limiar tenue entre sucesso e o fracasso
 Bate papo afim de elucidar novos e velhos desenvolvedores, tech-leads, CTOs sobre aplicação de padrões em seu projeto, mantenabilidade, educação do time, qualidade e performance no dia-a-dia com foco no pragmatismo.
 
 # Descrição
-Nos dias de hoje, da programação moderna, dos padroes de projetos, da orientação a objetos, scrum, startups, agilidade, etc, nos vemos cercados de pessoas dizendo quais sao as boas práticas e como fazer, mas no fundo a verdade (e a sabe quem tem chão, tempo de mercado) é que tudo é uma questão de equilibrio e que o fanatismo por padrões ou o desleixo completo do seu código podem ser a razão da sua ruina, das noites viradas no escritorio, de bufixes para consertar hotfixes, etc. 
+Nos dias de hoje, da programação moderna, dos padroes de projetos, da orientação a objetos, scrum, startups, agilidade, etc, nos vemos cercados de pessoas dizendo quais sao as boas práticas e como fazer.
 
-Com isso gostaria de compartilhar minha experiencia ao longo de 16 anos pra tentar elucidar um pouco o Porque e o Quando.
+No fundo, a verdade (e a sabe quem tem chão, tempo de mercado) é que tudo é uma questão de equilibrio e que o fanatismo por padrões ou o desleixo completo do seu código podem ser a razão da sua ruina, das noites viradas no escritorio, de bufixes para consertar hotfixes, etc. 
+
+Com isso gostaria de compartilhar minha experiencia ao longo de 16 anos pra tentar elucidar um pouco o Porque e o Quando. Iremos falar sobre cases por onde ja trabalhei envolvendo Mobile, Frontend, Serviços, etc...
 
 # Quem?
 
@@ -29,6 +31,8 @@ iFind Platform ( http://ifind.io )
 ## Minicurrículo
 Arquiteto de Sistemas, Evangelista PHP, Pai, Marido, levantador de copo profissional.
 
+* CTO at Spryker
+* Ex Global CTO Clickbus/Rocket Internet
 * Ernst & Young / Axia Value Chain
 * Ci&T / Accenture / Inter.net
 * Privalia / Super Exclusivo / Coquelux
