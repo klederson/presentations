@@ -19,3 +19,7 @@ A estrada até aqui / The road so far:
 * Coquelux ( Systems Architect )
 * DHL ( Systems Architect )
 * Buonny: Wal*Mart / Perdigão ( Systems Architect )
+
+Mais / More:
+=============
+br.linkedin.com/in/klederson
