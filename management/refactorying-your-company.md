@@ -37,6 +37,7 @@ Developer by heart and nerd by nature, i've worked in may kinds of projects mana
 
 Between the great companies I had worked in i can tell:
 
+- Urbanara GmbH (CTO)
 - Spryker GmbH (LatAm CTO)
 - Clickbus (Global CTO)
 - Ci&T ( Software Architect )
