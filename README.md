@@ -8,7 +8,8 @@ Klederson Bueno is a technology enthusiast, envolved in the most different kind 
 A estrada até aqui / The road so far:
 =============
 
-* Spryker ( Latam CTO )
+* Urbanara GmbH ( CTO )
+* Spryker GmbH ( Latam CTO )
 * Clickbus ( Global CTO )
 * Ernst & Young ( Senior Manager )
 * Axia Value Chain ( Systems Architect )
